@@ -13,4 +13,7 @@
 + Aula08 - Relacionamento entre classes
 + Aula09 - Exercício de Revisão
 
+### Referência
+Utilizei como base para criação desse curso, as aulas disponíveis no canal [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo), disponivel na plataforma do **YouTube**.
+
 > Sinta-se a vontade para **copiar** e **replicar** qualquer código encontrado neste repositório
