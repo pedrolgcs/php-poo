@@ -13,6 +13,18 @@
 + Aula08 - Relacionamento entre classes
 + Aula09 - Exercício de Revisão
 
+### Configuração de Ambiente
+
+- Linux
+	- Apache2
+	- PHP Version 7
+	- Habilitar erros do PHP 
+		- Editar o arquivo /etc/php/7.0/apache2/php.ini
+		- display_errors = Off para display_errors – On
+
+- Windows
+	- Recomendo utilização do [WAMP](http://www.wampserver.com/en/)
+
 ### Referência
 Utilizei como base para criação desse curso, as aulas disponíveis no canal [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo), disponivel na plataforma do **YouTube**.
 
