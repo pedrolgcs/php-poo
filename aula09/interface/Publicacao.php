@@ -2,6 +2,7 @@
 	interface Publicacao
 	{
 		public function abrir();
+		public function detalhes();
 		public function fechar();
 		public function folhear();
 		public function avancarPag();
