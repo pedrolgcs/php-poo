@@ -12,6 +12,7 @@
 + Aula07 - Atividade UFC
 + Aula08 - Relacionamento entre classes
 + Aula09 - Exercício de Revisão
++ Aula10 - Herança
 
 ### Configuração de Ambiente
 
