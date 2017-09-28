@@ -19,9 +19,9 @@
 - Linux
 	- Apache2
 	- PHP Version 7
-	- Habilitar erros do PHP 
-		- Editar o arquivo /etc/php/7.0/apache2/php.ini
-		- Troque display_errors = Off para display_errors – On
+		- Habilitar erros do PHP 
+			- Editar o arquivo /etc/php/7.0/apache2/php.ini
+			- Troque display_errors = Off para display_errors – On
 
 - Windows
 	- Recomendo utilização do [WAMP](http://www.wampserver.com/en/)
