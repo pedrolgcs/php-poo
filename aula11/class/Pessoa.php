@@ -8,12 +8,6 @@
 		private $nome;
 		private $idade;
 		private $sexo;
-		
-		// construtor
-		// function __construct(argument)
-		// {
-		// 	# code...
-		// }
 
 		// métodos
 		public function fazerAniversario()
